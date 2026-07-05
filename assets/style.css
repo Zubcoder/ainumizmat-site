@@ -1,16 +1,16 @@
-/* AI Юрист — сайт. Общие стили. */
+/* AI Нумизмат — сайт. Общие стили (золото/бронза на тёмном). */
 :root {
-  --navy: #1A237E;
-  --navy-dark: #0d1442;
-  --navy-light: #3949ab;
-  --accent: #ffb300;
-  --bg: #f6f7fb;
+  --navy: #3E2C23;
+  --navy-dark: #2a1e18;
+  --navy-light: #7a5230;
+  --accent: #f5b301;
+  --bg: #faf8f2;
   --bg-card: #ffffff;
-  --text: #1c2033;
-  --text-soft: #565c73;
-  --border: #e6e8f0;
+  --text: #21201c;
+  --text-soft: #625b50;
+  --border: #eae4d8;
   --ok: #2e7d32;
-  --shadow: 0 6px 24px rgba(26, 35, 126, 0.08);
+  --shadow: 0 6px 24px rgba(62, 44, 35, 0.10);
   --radius: 14px;
   --maxw: 1120px;
 }
